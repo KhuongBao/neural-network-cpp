@@ -57,6 +57,8 @@ _Note: The `train.csv` and `test.csv` files are already included in the reposito
     ```
     make
     ```
+_Note: Parameters are saved automatically to “parameters.csv”. These can be loaded in using model.load_parameters(filename) to skip training steps_
+
 
 ### Step 3: Visualize Decision Boundaries
 
