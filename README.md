@@ -44,7 +44,7 @@ This project implements a simple neural network in C++ using the Eigen library f
 
 ### Step 1: Generate Dataset
 
-1. Open the *`Data.ipynb`* notebook in Jupyter Notebook.
+1. Open the `Data.ipynb` notebook in Jupyter Notebook.
 2. Run the first two (2) cells to generate `train.csv` and `test.csv` datasets.
 
 _Note: The `train.csv` and `test.csv` files are already included in the repository. You can use these files directly or generate new random datasets using the Python notebook._
@@ -60,20 +60,20 @@ _Note: The `train.csv` and `test.csv` files are already included in the reposito
 
 ### Step 3: Visualize Decision Boundaries
 
-1. Go back to the *`Data.ipynb`* notebook.
+1. Go back to the `Data.ipynb` notebook.
 2. Run the remaining cells to visualize the decision boundaries for the training and test datasets.
 
 ## Configuration
-You can switch configurations in main.cpp to customize the neural network. Here are some options:
-Activation Functions
-•	ReLU: "relu"
-•	Sigmoid: "sigmoid"
-•	Tanh: "tanh"
-•	Leaky ReLU: "leaky_relu"
-•	Softmax: "softmax"
-Loss Functions
-•	Binary Cross-Entropy: "binary_cross_entropy"
-•	Categorical Cross-Entropy: "categorical_cross_entropy"
-•	Mean Squared Error: "mean_squared_error"
+You can switch configurations in `main.cpp` to customize the neural network. Here are some options:
+### Activation Functions
+-	ReLU: "relu"
+-	Sigmoid: "sigmoid"
+-	Tanh: "tanh"
+-	Leaky ReLU: "leaky_relu"
+-	Softmax: "softmax"
+### Loss Functions
+-	Binary Cross-Entropy: "binary_cross_entropy"
+-	Categorical Cross-Entropy: "categorical_cross_entropy"
+-	Mean Squared Error: "mean_squared_error"
 
 
