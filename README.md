@@ -22,7 +22,7 @@ This project implements a simple neural network in C++ using the Eigen library f
 
 1. Clone the repository:
     ```
-    git clone https://github.com/yourusername/neural-network-cpp.git
+    git clone https://github.com/KhuongBao/neural-network-cpp.git
     cd neural-network-cpp
     ```
 
