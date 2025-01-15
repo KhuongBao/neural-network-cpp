@@ -52,8 +52,8 @@ _Note: The `train.csv` and `test.csv` files are already included in the reposito
 
 ### Step 2: Train the Model 
 
-1. [Modify](https://github.com/KhuongBao/neural-network-cpp?tab=readme-ov-file#configuration) the `main.cpp` file if necessary to configure the neural network parameters.
-2. Compile and run the `main.cpp` file to train the model and save predictions:
+1. [Modify](https://github.com/KhuongBao/neural-network-cpp?tab=readme-ov-file#configuration) the `example.cpp` file if necessary to configure the neural network parameters.
+2. Compile and run the `example.cpp` file to train the model and save predictions:
     ```
     make
     ```
@@ -66,7 +66,7 @@ _Note: Parameters are saved automatically to “parameters.csv”. These can be 
 2. Run the remaining cells to visualize the decision boundaries for the training and test datasets.
 
 ## Configuration
-You can switch configurations in `main.cpp` to customize the neural network. Here are some options:
+You can switch configurations in `example.cpp` to customize the neural network. Here are some options:
 ### Activation Functions
 -	ReLU: "relu"
 -	Sigmoid: "sigmoid"
