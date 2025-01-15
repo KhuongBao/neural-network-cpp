@@ -1,2 +1,5 @@
 *.h linguist-language=C++
 *.cpp linguist-language=C++
+*.cpp linguist-detectable=true
+*.h linguist-detectable=true
+*.ipynb linguist-detectable=false
