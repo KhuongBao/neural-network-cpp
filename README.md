@@ -50,9 +50,9 @@ This project implements a simple neural network in C++ using the Eigen library f
 _Note: The `train.csv` and `test.csv` files are already included in the repository. You can use these files directly or generate new random datasets using the Python notebook._
 
 
-### Step 2: Train the Model
+### Step 2: Train the Model 
 
-1. Modify the `main.cpp` file if necessary to configure the neural network parameters.
+1. [Modify](https://github.com/KhuongBao/neural-network-cpp?tab=readme-ov-file#configuration) the `main.cpp` file if necessary to configure the neural network parameters.
 2. Compile and run the `main.cpp` file to train the model and save predictions:
     ```
     make
