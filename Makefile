@@ -1,4 +1,4 @@
-EIGEN_PATH = "D:/Code/C++/toolbox/eigen-3.4.0"
+EIGEN_PATH = "[PATH_TO_EIGEN]"
 
 SOURCE = NeuralNetwork.cpp
 FILE = example.cpp
