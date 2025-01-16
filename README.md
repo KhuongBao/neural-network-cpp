@@ -33,7 +33,7 @@ This project implements a simple neural network in C++ using the Eigen library f
 
 3. Set the path to the installed Eigen library in Makefile:
     ```
-    EIGEN_PATH = "C:/[path_to_eigen]"
+    EIGEN_PATH = "[PATH_TO_EIGEN]"
     ```
 
 4. Install the optional Python libraries:
